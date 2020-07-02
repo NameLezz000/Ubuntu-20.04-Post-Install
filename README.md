@@ -19,6 +19,8 @@ Just in case if my computer main drive got yeeted (again), i have an script to g
 1. Make sure that you know what this script will do, if you disagree, change it to fit your wish;
 2. Run (do not use sudo) `sh run.sh` and wait untill the computer restart.
 
+---
+
 ## Final notes
 
 This is made to fit my personal use using Ubuntu 20.04 Minimal Install, as I always have intenet available, this script is based on available internet as well;
