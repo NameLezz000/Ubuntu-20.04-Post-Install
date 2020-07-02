@@ -21,4 +21,6 @@ Just in case if my computer main drive got yeeted (again), i have an script to g
 
 ## Final notes
 
-This is made to fit my personal use using Ubuntu 20.04 Minimal Install, as I always have intenet available, this script is based on available internet as well, also I finish write this README at 02:45 a.m., so... sorry for the grammar error if you find one ':D
+This is made to fit my personal use using Ubuntu 20.04 Minimal Install, as I always have intenet available, this script is based on available internet as well;
+I finish write this README at 02:45 a.m., so... sorry for the grammar error if you find one ':D
+Why "run.sh" and not "install.sh"? Less characters = Less time wasted
