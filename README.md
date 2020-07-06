@@ -17,7 +17,7 @@ Just in case if my computer main drive got yeeted (again), i have an script to g
 ## How to use?
 
 1. Make sure that you know what this script will do, if you disagree, change it to fit your wish;
-2. Run (do not use sudo) `sh run.sh` and wait untill the computer restart.
+2. Run (do not use sudo) `sh run.sh` and wait.
 
 ---
 
