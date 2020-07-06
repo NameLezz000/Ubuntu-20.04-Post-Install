@@ -16,6 +16,7 @@ sudo rm /var/cache/apt/archives/lock
 
 ## Updating repository ##
 sudo dpkg --add-architecture i386
+wget -O - https://dl.winehq.org/wine-builds/winehq.key | sudo apt-key add -
 sudo add-apt-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ focal main' 
 sudo apt update
 
