@@ -26,7 +26,9 @@ sudo apt install git make node-typescript -y
 git clone https://github.com/pop-os/shell.git
 wget -c "https://dl.discordapp.net/apps/linux/0.0.10/discord-0.0.10.deb"
 wget -c "https://packages.microsoft.com/repos/ms-teams/pool/main/t/teams/teams_1.3.00.16851_amd64.deb"
-cd .. && git clone https://github.com/000-NameLezz/Default-School-Programs.git && cd temp
+cd ..
+git clone https://github.com/000-NameLezz/Standard-School-Programs.git
+cd temp
 
 ## Installing packages ##
 #Discord
