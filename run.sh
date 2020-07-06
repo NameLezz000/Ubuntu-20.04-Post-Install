@@ -29,16 +29,12 @@ wget -c "https://packages.microsoft.com/repos/ms-teams/pool/main/t/teams/teams_1
 cd .. && git clone https://github.com/000-NameLezz/Default-School-Programs.git && cd temp
 
 ## Installing packages ##
-
 #Discord
 sudo apt install ./discord*.deb -y
-
 #MS Teams
 sudo apt install ./teams*.deb -y
-
 #Wine
 sudo apt install --install-recommends winehq-stable -y
-
 #Pop!_OS Shell
 cd shell
 sh rebuild.sh
