@@ -1,7 +1,11 @@
 # Ubuntu-20.04-Post-Install
-Just in case if my computer main drive got yeeted (again), i have an script to get my primary things up running again.
+Just in case if my computer main drive got yeeted (again).
 
 ---
+
+## What is it?
+
+I have an script to get my primary things up running again when I (re)install an Gnome-Linux based OS
 
 ## What it will do?
 
