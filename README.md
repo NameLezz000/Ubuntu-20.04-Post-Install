@@ -7,6 +7,8 @@ Just in case if my computer main drive got yeeted (again).
 
 I have an script to get my primary things up running again when I (re)install an Gnome-Linux based OS
 
+---
+
 ## What it will do?
 
 - Install Wine Stable - [WineHQ website](https://www.winehq.org/)
